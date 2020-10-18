@@ -82,9 +82,9 @@ I began developing this enhancement from an idea.  I knew what I needed to do to
 <br >I faced a few challenges while developing my enhancement.  My most frustrating challenge was the loss of my work.  Due to a time limit for courses to be open using Codio IDE (a third-party platform used by SNHU for STEM courses), code that I had developed was lost due to archiving.  I had to start anew and rewrite what I had already done.  My second challenge was conceptualizing SQL syntax for certain statements, namely the trigger implementations.  I had not worked with SQL in about two years, so I immediately had to brush up on the terminology and syntax to be able to complete some of the code. <br />
 
 ## References
-1. Radigan, D. (n.d.). _Why code reviews matter (and actually save time!)_. Retrieved September 11, 2020, from https://www.atlassian.com/agile/software-development/code-reviews
-2. Hill, J. (2017, January 29). _The Benefits of Learning Multiple Programming Languages_. Retrieved October 10, 2020, from https://www.bignerdranch.com/blog/the-benefits-of-learning-multiple-programming-languages/
-3. _Critical Thinking_. (2016, August 12). Retrieved October 1, 2020, from https://www.jennysgrandchild.com/critical-thinking/
-4. Motiani, S. (2014, January 31). _What is the Most Efficient Way to Learn a New Programming Language_. Retrieved October 1, 2020, from https://www.quora.com/What-is-the-most-efficient-way-to-learn-a-new-programming-language
-5. Upton, D. E. (n.d.). ALGORITHMS. Retrieved October 2, 2020, from https://www.referenceforbusiness.com/encyclopedia/A-Ar/Algorithms.html
-6. Unknown. (2012, October 7). 10 interesting facts about SQL for beginners. Retrieved October 15, 2020, from http://ajksqlteacher.blogspot.com/2012/10/10-interesting-facts-about-sql-for.html
+1. Critical Thinking. (2016, August 12). Retrieved October 1, 2020, from https://www.jennysgrandchild.com/critical-thinking/
+2. Hill January 29, J. (2017, January 29). The Benefits of Learning Multiple Programming Languages - Digital product development agency: Big Nerd Ranch. Retrieved October 18, 2020, from https://www.bignerdranch.com/blog/the-benefits-of-learning-multiple-programming-languages/
+3. Motiani, S. (2014, January 31). What is the Most Efficient Way to Learn a New Programming Language. Retrieved October 1, 2020, from https://www.quora.com/What-is-the-most-efficient-way-to-learn-a-new-programming-language
+4. Radigan, D. (n.d.). Why code reviews matter (and actually save time!). Retrieved October 18, 2020, from https://www.atlassian.com/agile/software-development/code-reviews
+5. Unknown. (2012, October 7). 10 interesting facts about SQL for beginners. Retrieved October 15, 2020, from http://ajksqlteacher.blogspot.com/2012/10/10-interesting-facts-about-sql-for.html
+6.Upton, D. E. (n.d.). ALGORITHMS. Retrieved October 2, 2020, from https://www.referenceforbusiness.com/encyclopedia/A-Ar/Algorithms.html
