@@ -4,7 +4,7 @@
 
 
 ## Informal Code Review - [Youtube Video](https://youtu.be/WIEzl36tGwA)
-Code reviews can be characterized as a list of items to go over and ensure criteria is met.  This can be done by you, a developer, or one of your peers.  The items usually attempt to identify obvious errors, obvious logical errors, proper documentation, proper testing, format and styling abnormalities, proper functionality, and overall completeness (Radigan).  Essentially, a code review is an end to end review of the completed work done within a timeframe or as a complete product.  Specifically, this review encapsulates the three major projects for this course.
+Code reviews can be characterized as a list of items to go over and ensure criteria is met.  This can be done by you, a developer, or one of your peers.  The items usually attempt to identify obvious errors, obvious logical errors, proper documentation, proper testing, format and styling abnormalities, proper functionality, and overall completeness.  Essentially, a code review is an end to end review of the completed work done within a timeframe or as a complete product.  Specifically, this review encapsulates the three major projects for this course.
 ### &emsp;
 
 
@@ -80,10 +80,3 @@ When I was first aware of the guidelines of my capstone course, I had a basic id
 I began developing this enhancement from an idea.  I knew what I needed to do to set up a database and get the basics, so I created a database and populated it with rows of data.  This was intended as practice.  I then began to develop ideas on how I would develop triggers and how I could use them to my advantage and how they could be applied to real world applications.  Triggers are excellent data integrity verifiers because triggers can be executed before or after an insert, update, or delete.  For example, a trigger can be used to verify a positive number such as age where it can never be negative.  From there, I began to develop more ideas using the same basis for though to implement the views. <br />
 <br >This enhancement has introduced brand new databasing concepts to my range of skillsets.  Before this project, I was able to perform basic SQL CRUD operations.  I am now able to create data integrity checking, frequently queried views, increase the speed at which a query runs, and search entries by full text.  All these enhancements have been a positive enforcement and addition to my databasing knowledge.  I have also learned another technique towards researching and problem solving.  Typically, I would result to a google search for comparable issues or concepts with code in general.  I have learned, rather, to start with language API itself and progress from there.  I had no clue what to search but using the built in ‘HELP’ function directed me towards what I needed to know. <br />
 <br >I faced a few challenges while developing my enhancement.  My most frustrating challenge was the loss of my work.  Due to a time limit for courses to be open using Codio IDE (a third-party platform used by SNHU for STEM courses), code that I had developed was lost due to archiving.  I had to start anew and rewrite what I had already done.  My second challenge was conceptualizing SQL syntax for certain statements, namely the trigger implementations.  I had not worked with SQL in about two years, so I immediately had to brush up on the terminology and syntax to be able to complete some of the code. <br />
-
-
-## References
-```markdown
-Radigan, D. (n.d.). Why code reviews matter (and actually save time!). Retrieved September 11, 2020, from https://www.atlassian.com/agile/software-development/code-reviews
-
-```
