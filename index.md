@@ -15,8 +15,8 @@ Below are the enhancements I have made.  All works below are provided by Souther
 
 
 ## Enhancement One
-Link to [BitBucket Repository](https://bitbucket.org/Christian_Blosser/finalsourcecatonerevised/src/master/FinalProjectEnhancements/) for enhancement
-Link to [BitBucket Repository](https://bitbucket.org/Christian_Blosser/finalsourcecatone/src/master/CS%20405%20Final%20Project/)for original
+Link to [BitBucket Repository](https://bitbucket.org/Christian_Blosser/finalsourcecatonerevised/src/master/FinalProjectEnhancements/) for enhancement.  
+Link to [BitBucket Repository](https://bitbucket.org/Christian_Blosser/finalsourcecatone/src/master/CS%20405%20Final%20Project/)for original.  
 
 My first enhancement was to a project I completed in CS 405: Secure Coding.  In this project, we were assigned with finding security vulnerabilities and creating solutions to those findings.  Some of those findings were of original user error while others were created within the program in order to provide examples of different security issues.  The program was written by author, Curtis, on November 5, 2017 in the C++ language.  Overall, this program was a little difficult to interpret, as it was nearly comment free and I do not have extended experience in C++.  For this program’s enhancement, I chose to convert from C++ to Java.  This would entail converting every file and function into classes and methods for Java.
 
