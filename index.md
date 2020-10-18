@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+# Professional ePortfolio
+### A collection and showcase of works completed by Christian Blosser
 
-You can use the [editor on GitHub](https://github.com/christian-blosser/ePortfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+## Informal Code Review
+My code review can be found [here](https://youtu.be/WIEzl36tGwA)
+
+Code review can be characterized as a list of items to go over and ensure criteria is met.  This can be done by you, a developer, or one of your peers.  The items usually attempt to identify obvious errors, obvious logical errors, proper documentation, proper testing, format and styling abnormalities, proper functionality, and overall completeness (Radigan).  Essentially, a code review is an end to end review of the completed work done within a timeframe or as a complete product.  Specifically, this review encapsulates the three major projects for this course.
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -35,3 +42,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+## References
+```markdown
+Radigan, D. (n.d.). Why code reviews matter (and actually save time!). Retrieved September 11, 2020, from https://www.atlassian.com/agile/software-development/code-reviews
+
+```
