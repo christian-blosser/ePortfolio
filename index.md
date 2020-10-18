@@ -1,6 +1,17 @@
 # Professional ePortfolio
 ### Introduction - A collection and showcase of works completed by Christian Blosser
-&emsp;
+The journey through the Computer Science (CS) program has assisted with my own self-improvement.  I cannot claim to know everything there is to know, but I can claim that I will always complete a job properly to its entirety.  This ePortfolio has provided the opportunity to showcase a few strengths I have practiced and developed.  However, it cannot provide everything I have learned.  Throughout my journey I was privileged to learn and develop in many areas of CS that I cannot showcase within my portfolio:
+-	Team collaboration within multiple environments.  The CS program has given me a firsthand experience with using repositories, waterfall and agile development cycles, code and peer reviewing, and collaborative critical thinking while engaging with a team.
+-	Professionally communicating to stakeholders.  Using data mining, statistics, survey reports, financial reports, and other official documents, I assessed the Bubba Gump Shrimp Company for profit loss.  Utilizing statistical software JMP, I assessed correlations, developed numerous types of graphs, accounted for outlying causes, and identified corrective actions.
+-	Data structures and algorithms.  I developed an understanding of data structures and algorithms in the early periods of the CS program and have been building on these topics ever since.  Using programming tools such as arrays, linked lists, search trees, vectors, or hash tables can increase efficiency and scalability of any program.
+-	Software engineering, databasing, and security.  As the world becomes more connected and develops more of an online presence, the need for these three skills come in higher demand.  Throughout the entire CS program, software engineering was a large part of the development.  Using multiple languages, developing complex functions, following best practices, programming for scalability and reuse, and quality assurance testing, the skills developed will prove to be priceless.  In addition, securely coding a program consists of having no errors or warnings, algorithmically airtight, proper use of input validation, and eliminating any potential for unwanted intrusion.
+## &emsp;
+Contained in this portfolio is a collection of works that I have personally selected to showcase some of my abilities.  I was able to demonstrate my developments in data structures and algorithms, software engineering and design, program development, databasing, and security.  These separate projects fit together to provide a glimpse into the capabilities of what I can do.
+The three projects below are as follows:
+-	A recreation from C++ to Java
+-	A recursive implementation of the merge sort algorithm.
+-	An implementation of advanced MySQL concepts and queries.
+
 
 
 ## Informal Code Review - [Youtube Video](https://youtu.be/WIEzl36tGwA)
@@ -63,7 +74,8 @@ As I began the process of development, I scoured for a detailed understanding of
 What I have learned through this process has been priceless.  I have learned how to implement an algorithm from pseudocode to final production, managing my time better with the unknown, a better understanding of Java file CRUD operations, recursion, and even sorting in general.  This particular enhancement has been absolutely priceless for me.  The knowledge that I have learned, or have started to learn, will allow me to advance my understand in program development, program efficiency, and algorithms.
 
 ## Enhancement Three - Databases
-Link to [BitBucket Repository](https://bitbucket.org/Christian_Blosser/finalsourcecatthree/src/master/FinalSourceCatThree/PortfolioProjectThree.sql) for original source code.
+Link to [BitBucket Repository](https://bitbucket.org/Christian_Blosser/finalsourcecatthree/src/master/FinalSourceCatThree/PortfolioProjectThree.sql) for original source code.  
+Link to [Result Excel File](https://1drv.ms/x/s!AiPPn2_yADjBiEpTmHUcWldcDcvh?e=HqYRlV).  
 
 My third enhancement was to further my final project from DAD 220: Introduction to SQL.  In this course I learned to implement basic CRUD operations to manipulate and query an SQL database.  For my third enhancement, I decided to implement a few advanced MySQL concepts such as triggers, views, indexing, and full-text searching.  To execute these tasks, I needed to create a new schema/database, implement the triggers, populate the database, implement the views, and then use a full-text query.  Using a simple text-editor program, I can write my SQL code.  Additionally, with use of an online compiler, I can compile my SQL file with the latest version of MySQL.
 
