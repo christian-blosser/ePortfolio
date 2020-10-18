@@ -74,7 +74,6 @@ As I began the process of development, I scoured for a detailed understanding of
 3. Testing and review.  Testing was a rather white-box execution process where I did not automate tests as the program runs linearly with no input from the user.  For the reviewing of this program, I ensured proper header comments, formatting of code, and comments used to clarify each step of each process.  
 <br />
 
-## &emsp;
 What I have learned through this process has been priceless.  I have learned how to implement an algorithm from pseudocode to final production, managing my time better with the unknown, a better understanding of Java file CRUD operations, recursion, and even sorting in general.  This particular enhancement has been absolutely priceless for me.  The knowledge that I have learned, or have started to learn, will allow me to advance my understanding of program development, program efficiency, and algorithms.
 
 ## Enhancement Three - Databases
