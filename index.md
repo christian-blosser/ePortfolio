@@ -4,24 +4,11 @@
 ## Informal Code Review - [Youtube Video](https://youtu.be/WIEzl36tGwA)
 
 Code reviews can be characterized as a list of items to go over and ensure criteria is met.  This can be done by you, a developer, or one of your peers.  The items usually attempt to identify obvious errors, obvious logical errors, proper documentation, proper testing, format and styling abnormalities, proper functionality, and overall completeness (Radigan).  Essentially, a code review is an end to end review of the completed work done within a timeframe or as a complete product.  Specifically, this review encapsulates the three major projects for this course.
-
-
-
-
-
-
-
-
-
-
-
-
-
-#
+&nbsp;
 # Enhancements
 ## Overview
 Below are the enhancements I have made.  All works below are provided by Southern New Hampshire University (SNHU), recreations of works provided by SNHU, or are of my own implementation.
-#
+&nbsp;
 ## Enhancement One
 Link to [BitBucket Repository](https://bitbucket.org/Christian_Blosser/finalsourcecatonerevised/src/master/FinalProjectEnhancements/) for enhancement
 Link to [BitBucket Repository](https://bitbucket.org/Christian_Blosser/finalsourcecatone/src/master/CS%20405%20Final%20Project/)for original
