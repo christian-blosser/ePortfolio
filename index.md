@@ -1,13 +1,19 @@
 # Professional ePortfolio
 ### Introduction - A collection and showcase of works completed by Christian Blosser
 &emsp;
+
+
 ## Informal Code Review - [Youtube Video](https://youtu.be/WIEzl36tGwA)
 Code reviews can be characterized as a list of items to go over and ensure criteria is met.  This can be done by you, a developer, or one of your peers.  The items usually attempt to identify obvious errors, obvious logical errors, proper documentation, proper testing, format and styling abnormalities, proper functionality, and overall completeness (Radigan).  Essentially, a code review is an end to end review of the completed work done within a timeframe or as a complete product.  Specifically, this review encapsulates the three major projects for this course.
 ### &emsp;
+
+
 # Enhancements
 ## Overview
 Below are the enhancements I have made.  All works below are provided by Southern New Hampshire University (SNHU), recreations of works provided by SNHU, or are of my own implementation.
 ### &nbsp;
+
+
 ## Enhancement One
 Link to [BitBucket Repository](https://bitbucket.org/Christian_Blosser/finalsourcecatonerevised/src/master/FinalProjectEnhancements/) for enhancement
 Link to [BitBucket Repository](https://bitbucket.org/Christian_Blosser/finalsourcecatone/src/master/CS%20405%20Final%20Project/)for original
@@ -27,7 +33,7 @@ As I began, I followed the flow of the program starting with the main function. 
 <br >The process was not all that simple, however.  I learned that reading files and manipulating file data seems to be simpler in C++ than in Java.  Most of my program was lengthened due to implementation of FileWriter, Scanner, and File manipulations in attempt to recreate the original functionality.  I also expanded my knowledge of C++ and Java programming.  Being naïve, I thought I had a good grasp of Java programming.  I stand corrected after undergoing countless hours of troubleshooting, revising, and researching due to improper implementation.  In one case, I forgot to close a Scanner object that had taken almost two hours of time to find and create. <br />
 <br >I faced a few challenges along the way.  In addition to the things I have learned due to the challenges, I have also learned how to better manage time with the unknown.  As I mentioned earlier, I had worked on this capstone project for 31 hours this week in addition to maintaining my adult responsibilities such as working 40 hours, grocery shopping, feeding myself, and managing to maintain a healthy work-life balance. <br />
 
-
+<br ><br />
 ## References
 ```markdown
 Radigan, D. (n.d.). Why code reviews matter (and actually save time!). Retrieved September 11, 2020, from https://www.atlassian.com/agile/software-development/code-reviews
